@@ -1,0 +1,7 @@
+C:\Users\Muhammed\Desktop\Udemy C#\kalıtım_örnek\bin\Debug\kalıtım_örnek.exe.config
+C:\Users\Muhammed\Desktop\Udemy C#\kalıtım_örnek\bin\Debug\kalıtım_örnek.exe
+C:\Users\Muhammed\Desktop\Udemy C#\kalıtım_örnek\bin\Debug\kalıtım_örnek.pdb
+C:\Users\Muhammed\Desktop\Udemy C#\kalıtım_örnek\obj\Debug\kalıtım_örnek.csproj.AssemblyReference.cache
+C:\Users\Muhammed\Desktop\Udemy C#\kalıtım_örnek\obj\Debug\kalıtım_örnek.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Udemy C#\kalıtım_örnek\obj\Debug\kalıtım_örnek.exe
+C:\Users\Muhammed\Desktop\Udemy C#\kalıtım_örnek\obj\Debug\kalıtım_örnek.pdb
