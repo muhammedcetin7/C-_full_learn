@@ -1,0 +1,7 @@
+C:\Users\Muhammed\Desktop\Udemy C#\matrislerToplami\bin\Debug\matrislerToplami.exe.config
+C:\Users\Muhammed\Desktop\Udemy C#\matrislerToplami\bin\Debug\matrislerToplami.exe
+C:\Users\Muhammed\Desktop\Udemy C#\matrislerToplami\bin\Debug\matrislerToplami.pdb
+C:\Users\Muhammed\Desktop\Udemy C#\matrislerToplami\obj\Debug\matrislerToplami.csproj.AssemblyReference.cache
+C:\Users\Muhammed\Desktop\Udemy C#\matrislerToplami\obj\Debug\matrislerToplami.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\Udemy C#\matrislerToplami\obj\Debug\matrislerToplami.exe
+C:\Users\Muhammed\Desktop\Udemy C#\matrislerToplami\obj\Debug\matrislerToplami.pdb
